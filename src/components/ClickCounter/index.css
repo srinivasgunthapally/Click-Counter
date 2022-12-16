@@ -1,0 +1,18 @@
+.counter-container {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  background-color: aliceblue;
+  padding: 60px;
+}
+.counter-heading {
+  font-size: 30px;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+}
+.counter-value {
+  font-size: 25px;
+  font-weight: bold;
+  color: aqua;
+}
